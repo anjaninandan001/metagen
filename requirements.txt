@@ -9,5 +9,6 @@ pytesseract
 Pillow
 requests
 python-dotenv
+pytest
 
 
